@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+*{
+    margin: 0;
+padding: 0;
+box-sizing: border-box;
+list-style-type:none;
+scroll-behavior:smooth;
+font-family: 'Josefin Sans', sans-serif;
+}
+
+/* -------------------section1 start---------------------------------------- */
+
+.section1 img{
+    position: relative;
+    transform: rotate(90 deg);
+}
+.sec4cont{
+    border-bottom: 3px solid red;
+}
+.sec-4 img{
+    border-radius: 50%;
+}
+.section7 i:hover{
+background-color: red;
+color: white;
+border-radius: 10px;
+}
+
+.section5 .rounded img{
+    width: 100%;
+    border-radius: 50%;
+}
